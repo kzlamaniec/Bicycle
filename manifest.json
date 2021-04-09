@@ -11,7 +11,7 @@
     {
       "src":   "img/b1.png",
       "type":  "image/png",
-      "sizes": "600x417"
+      "sizes": "417x417"
     }
   ],
   "start_url": "index.html",
