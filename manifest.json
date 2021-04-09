@@ -14,7 +14,7 @@
       "sizes": "417x417"
     }
   ],
-  "scope": "./",
+  "scope": "/index.html/",
   "start_url": "index.html",
   "background_color": "white",
   "display": "standalone",
