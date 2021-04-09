@@ -1,0 +1,31 @@
+.wrapper {
+    max-width: 1280px;
+    margin: auto;
+}
+
+.title {
+    font-size: 42px;
+    text-align: center;
+    margin: auto;
+    background-color: rgb(143, 238, 143);
+    padding: 40px;
+}
+
+.paragraf {
+    text-align: center;
+    margin: 15px 0;
+    padding: 20px;
+}
+
+.bicycle {
+    background-color: rgb(201, 201, 201);
+    -webkit-box-shadow: 0px 0px 25px 0px #000000; 
+    box-shadow: 0px 0px 25px 0px #000000;
+    padding: 10px;
+}
+
+.bicycle img{
+    width: 100%;
+    height: auto;
+    margin: auto;
+}

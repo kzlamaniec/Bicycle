@@ -1,0 +1,22 @@
+{
+  "short_name": "Bicycle",
+  "name": "Bicycle",
+  "description": "PWA Bicycle",
+  "icons": [
+    {
+      "src":   "img/b2.png",
+      "type":  "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src":   "img/b1.png",
+      "type":  "image/png",
+      "sizes": "600x417"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "white",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "white"
+}
