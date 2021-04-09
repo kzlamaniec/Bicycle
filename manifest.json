@@ -14,9 +14,9 @@
       "sizes": "417x417"
     }
   ],
+  "scope": "./",
   "start_url": "index.html",
   "background_color": "white",
   "display": "standalone",
-  "scope": "./",
   "theme_color": "white"
 }
